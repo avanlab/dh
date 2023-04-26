@@ -48,6 +48,6 @@ margin-bottom: 9px;
 }
 
 body {
-background: linear-gradient(135deg,#ece9e6,#ffffff);
+background: linear-gradient(135deg,#c9d6ff,#e2e2e2);
 }
 </style>
