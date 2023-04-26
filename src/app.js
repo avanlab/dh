@@ -6,14 +6,7 @@ export default {
     connect:{       //右上角小铺按钮
         text:'小铺',
         href:'https://kh.aiaxx.cn'
-    <template>
-        <div id="app">
-          <h1>{{msg}}</h1>
-          <!--1.常用按钮-->
-          <el-button type="primary">主要按钮</el-button>
-          
-        </div>
-    </template>
+
     },
    
 
