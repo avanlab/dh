@@ -5,7 +5,7 @@
         </div>
         <!--请勿更改以下版权信息，删除或更改将拉入黑名单，无法获得后续更新-->
         <div class="footer-text">
-            design by <a href="https://fastnav.cn" target="_blank">FastNav</a>
+            design by <a href="http://dh.aiaxx.cn" target="_blank">aiaxx</a>
         </div>
     </div>
 </template>

@@ -1,12 +1,21 @@
 export default {
     /*网站设置*/
-    title:'FastNav - 快速导航',  //网站标题
+    title:'AI爱学习导航 - 助你畅游AI',  //网站标题
     logoText:'',    //网站文字logo,不填则不显示
     navStyle:2,      //网址导航样式：1经典样式，2卡片样式
-    connect:{       //右上角反馈按钮
-        text:'反馈',
-        href:'https://vika.cn/share/shr0ydKWGscvRnUCEfQqN'
+    connect:{       //右上角小铺按钮
+        text:'小铺',
+        href:'https://kh.aiaxx.cn'
+    <template>
+        <div id="app">
+          <h1>{{msg}}</h1>
+          <!--1.常用按钮-->
+          <el-button type="primary">主要按钮</el-button>
+          
+        </div>
+    </template>
     },
+   
 
     /*以下为开启或关闭组件，0代表关闭，1代表开启*/
     showBanner:1,   //轮播banner
