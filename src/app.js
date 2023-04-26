@@ -5,10 +5,8 @@ export default {
     navStyle:2,      //网址导航样式：1经典样式，2卡片样式
     connect:{       //右上角小铺按钮
         text:'小铺',
-        href:'https://kh.aiaxx.cn'
-
+        href:'http://kh.aiaxx.cn'
     },
-   
 
     /*以下为开启或关闭组件，0代表关闭，1代表开启*/
     showBanner:1,   //轮播banner

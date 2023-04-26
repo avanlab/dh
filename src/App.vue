@@ -16,7 +16,7 @@ export default {
         hm.src = "https://hm.baidu.com/hm.js?30a43afea3e1cbad80ee4a2b266f676b";
         let s = document.getElementsByTagName("script")[0];
         s.parentNode.insertBefore(hm, s);
-        console.warn(')
+        console.warn('\n--------- AI仓鼠发现了一名小偷：---------\n\n别扒了，静态页面自己写吧。不会写我把源码卖给你，花钱买时间不香吗？\n\nQQ：3533413745\n\n加好友请备注【仓鼠源码】，否则不通过\n\n--------- www.aicangshu.net ---------\n\n')
     }
 }
 </script>
@@ -49,6 +49,6 @@ h4, .h4, h5, .h5, h6, .h6 {
 }
 
 body {
-    background-color: #bcc2cc;
+    background-color: #374151;
 }
 </style>
